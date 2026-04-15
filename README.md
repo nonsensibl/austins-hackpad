@@ -41,7 +41,8 @@ BOM:
 
 Custom PCB
 ($5.12 from the HCB grant will be used)
-<img width="1422" height="800" alt="Screenshot 2026-04-09 at 6 53 53 PM" src="https://github.com/user-attachments/assets/0c346ec6-eea5-45be-a572-2a320a56be19" />
+<img width="1419" height="802" alt="Screenshot 2026-04-14 at 11 59 56 PM" src="https://github.com/user-attachments/assets/c766ff65-5404-4b24-8c0e-7b68fe9db961" />
+
 
 
 Top Plate.step 
