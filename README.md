@@ -9,8 +9,8 @@ Challenges:
 First: PCB design: KiCad
 
 I had never touched a CAD software let alone designed a PCB. It started off generally easy with the PCB schematic which was self explanatory. However, next was the PCB editor. I spent almost 6 hours on this step. At first my switches and LEDs were in the wrong order, you couldn’t zigzag the LEDs or switches or else you would have a very hard time routing the PCB. Through trial and error, I learned how to route the PCB. 
-<img width="481" height="995" alt="Screenshot 2026-01-25 at 1 22 23 PM" src="https://github.com/user-attachments/assets/a754871f-a25d-4d7d-ad52-2215acb49baa" />
-<img width="1904" height="1230" alt="1" src="https://github.com/user-attachments/assets/d8fca145-989c-431a-9e52-27b97ffeacfa" />
+<img width="425" height="751" alt="Screenshot 2026-04-15 at 12 01 54 AM" src="https://github.com/user-attachments/assets/d98c6034-6251-4a88-a225-c22b8ba37d72" />
+<img width="986" height="640" alt="Screenshot 2026-04-15 at 12 02 50 AM" src="https://github.com/user-attachments/assets/fddc2ca6-f4d0-4748-9b6e-1ff67df9804f" />
 <img width="327" height="686" alt="Screenshot 2026-04-09 at 6 52 57 PM" src="https://github.com/user-attachments/assets/1c07e6cc-a58c-4e65-af87-c336d638ed61" />
 
 Although it didn’t look the prettiest, I was proud of what I’d done. I learned some valuable problem solving skills and some very useful things from this. It took a lot of logic to figure out the routing. I also learned that the voltage and ground lines could be linked up line to line.
