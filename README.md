@@ -1,6 +1,6 @@
 I just created a hackpad with 8 switches and 8 rgb LEDs! I am a beginner and this is my first project.
 
-I built this project because I have been very interested in the custom keyboard community for a while now and want to try my hands at it. I found this oppurtunity off of instagram and I though it was a very cool thing I could do!
+I built this project because I have been very interested in the custom keyboard community for a while now and want to try my hands at it. I found this opportunity off of Instagram and I though it was a very cool thing I could do!
 
 To use this, flash the firmware onto the macro pad and assemble with the sandwich mount design. The switches and LEDs need to be soldered onto the PCB and the keycaps go on at the end.
 
