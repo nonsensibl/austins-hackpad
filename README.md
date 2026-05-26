@@ -1,4 +1,4 @@
-I just created a hackpad with 8 switches and 8 rgb LEDs! I am a beginner and this is my first project.
+I just created a small macro pad with 8 switches and 8 rgb LEDs! I am a beginner and this is my first project.
 
 I built this project because I have been very interested in the custom keyboard community for a while now and want to try my hands at it. I found this opportunity off of Instagram and I though it was a very cool thing I could do!
 
